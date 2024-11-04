@@ -1,14 +1,9 @@
 
 /* Your CSS Code here. */
-.box_model{
-	width:300px;
-	background-color:lightblue;
-	margin:20px
-	border:15px solid blue;
-	
-	
-}
-.box_model p{
-	padding:50px;
-	
-}
+.box {
+            width: 300px;
+            background-color: lightblue;
+            border: 15px solid blue;
+            padding: 50px;
+            margin: 20px;
+            box-sizing: border-box
