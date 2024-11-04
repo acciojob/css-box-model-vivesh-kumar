@@ -4,7 +4,10 @@
 	width:300px;
 	background-color:lightblue;
 	margin:20px
-	padding:0px;
-	border:15px solid blue;
 	
+	
+}
+.box_model p{
+	padding:50px;
+	border:15px solid blue;
 }
